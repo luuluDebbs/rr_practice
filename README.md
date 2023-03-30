@@ -7,7 +7,7 @@ This document outline a s et of instruction that show how to build a paper plane
  
  ###Procedure
  
- 1. Fold a sheet of paper in half. Unfold the paper. Make sure the crease is facing up.
+ 1. Fold a sheet of A4 size paper in half. Unfold the paper. Make sure the crease is facing up.
  2. Fold the top corners toward the center
  3. Fold the corners down
  4. Next, fold the top corners to the center so that the corners meet above the fold in the tip
